@@ -1,0 +1,17 @@
+Apple_Overripe
+Apple_Ripe
+Apple_Unripe
+Banana_Overripe
+Banana_Ripe
+Banana_Unripe
+Dragonfruit_Ripe
+Dragonfruit_Unripe
+Mango_Overripe
+Mango_Ripe
+Mango_Unripe
+Orange_Overripe
+Orange_Ripe
+Orange_Unripe
+Stawberry_Overripe
+Stawberry_Ripe
+Stawberry_Unripe
